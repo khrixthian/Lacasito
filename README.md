@@ -1,2 +1,0 @@
-# Lacasito
-mi primer lacasito
